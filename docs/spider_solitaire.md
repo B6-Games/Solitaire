@@ -19,11 +19,11 @@ Spider Solitaire gained massive popularity when it was included in **Microsoft W
 
 ## History
 
-The origins of Spider Solitaire date back to the **early 20th century**, though the exact inventor is unknown. The name "Spider" likely comes from the fact that the game requires building **eight completed sequences** — similar to a spider having eight legs.
+The origins of Spider Solitaire date back to the **early 20th century**, though the exact inventor is unknown. The name "Spider" likely comes from the fact that the game requires building **eight completed sequences** - similar to a spider having eight legs.
 
 Spider Solitaire became globally recognized when **Microsoft** introduced it as part of its Windows operating system in **1998**. The game’s addictive nature and built-in score tracking made it a casual classic among office workers and home users alike.
 
-Today, Spider Solitaire remains one of the most-played digital card games, available across **mobile, web, and desktop platforms** — often with multiple difficulty levels such as *1 Suit*, *2 Suits*, and *4 Suits*.
+Today, Spider Solitaire remains one of the most-played digital card games, available across **mobile, web, and desktop platforms** - often with multiple difficulty levels such as *1 Suit*, *2 Suits*, and *4 Suits*.
 
 ---
 
@@ -56,9 +56,9 @@ The goal is to arrange all the cards in descending sequences from **King to Ace*
 
 ### 🧠 Difficulty Levels
 Spider Solitaire often comes in three main variations:
-- **1 Suit (Easy):** All cards are of the same suit — good for beginners.
-- **2 Suits (Medium):** Typically spades and hearts — adds more challenge.
-- **4 Suits (Hard):** Uses all four suits — requires high-level strategy and planning.
+- **1 Suit (Easy):** All cards are of the same suit - good for beginners.
+- **2 Suits (Medium):** Typically spades and hearts - adds more challenge.
+- **4 Suits (Hard):** Uses all four suits - requires high-level strategy and planning.
 
 ---
 
@@ -77,7 +77,7 @@ The game can be scored based on moves, time, or number of undos used, depending 
 ---
 
 ## Fun Fact 💡
-When Microsoft added Spider Solitaire to Windows XP, it was estimated that the average user spent **over 7 hours per week** playing it — making it one of the most beloved built-in computer games of all time.
+When Microsoft added Spider Solitaire to Windows XP, it was estimated that the average user spent **over 7 hours per week** playing it - making it one of the most beloved built-in computer games of all time.
 
 ---
 
@@ -89,4 +89,4 @@ When Microsoft added Spider Solitaire to Windows XP, it was estimated that the a
 
 ---
 
-*Written by B6 Games — creators of the Free Solitaire Collection featuring Spider, Klondike, FreeCell, Pyramid, and more!*
+*Written by B6 Games - creators of the Free Solitaire Collection featuring Spider, Klondike, FreeCell, Pyramid, and more!*
