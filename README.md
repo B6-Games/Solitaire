@@ -14,3 +14,7 @@ B6 Solitaire Classic Free Card Games: Spider FreeCell Klondike Scorpion Patience
 - [Eight Off Solitaire](docs/eight_off_solitaire.md)
 - [Baker's Game Solitaire](docs/bakers_Game_solitaire.md)
 
+Links
+- Web: https://b6.games/solitaire/
+- iOS: https://itunes.apple.com/app/apple-store/id979061864
+- Android: https://play.google.com/store/apps/details?id=games.b6.solitaire
