@@ -66,4 +66,58 @@ Move all cards to the **foundations**, building **Ace → King** in the same sui
 ### ♻️ Mobility (How Many Cards Can You Move?)
 In most digital versions, you can move an **in-suit descending sequence** if you have enough temporary space to simulate moving it one card at a time.  
 A common approximation:
+Max movable cards ≈ (number of empty reserve cells + 1) × (number of empty columns + 1)
+Exact behavior can vary by app/site. If a long move isn’t allowed as a single drag, break it into smaller steps using reserve cells and empty columns.
+
+---
+
+### 🏆 Winning the Game
+You win when **all four foundations** are completed **Ace → King**.  
+Because every card is visible and the rules are deterministic, outcomes hinge on **planning**, **cell management**, and **timing** your King moves.
+
+---
+
+## 🧠 Strategy Tips for Eight Off
+
+- **Guard your empty cells.** Treat them as premium real estate—use them, then free them again.  
+- **Favor same-suit consolidation.** Mixed suits block sequence moves; keep suits pure whenever possible.  
+- **Create (and preserve) empty columns.** They dramatically increase how far you can reposition stacks—especially for moving Kings.  
+- **Surface Aces and low cards early.** Early foundation progress unlocks more legal placements.  
+- **Stage before you stack.** Temporarily park cards in reserve to assemble longer in-suit runs, then collapse efficiently.
+
+---
+
+## Variations & Close Relatives
+
+- **Baker’s Game:** Same “build down by suit,” but typically **4 cells** (not 8) and no pre-filled reserves—tighter from move one.  
+- **FreeCell:** **Build down by alternating colors**, 4 cells, any card to empty column—more flexible but more color-dependent.  
+- **Seahaven Towers:** Usually **10 columns of 5**, **4 cells**, and **Kings-only** into empty columns—tactical and compact.
+
+---
+
+## Why Play Eight Off Solitaire Online?
+
+- ✅ **Free and instant** — great for quick, thoughtful sessions  
+- 🧩 **Skill-heavy** — all cards are face up; success comes from planning, not luck  
+- 📱 **Mobile & desktop friendly** — tap/drag to stage and stack  
+- 🏆 **Satisfying mastery curve** — the more you practice cell management, the higher your win rate
+
+---
+
+## Fun Fact 💡
+Many consider Eight Off the “**suit-pure FreeCell**.” If you love the logic of FreeCell but crave **stricter, cleaner** suit play, Eight Off is your next obsession.
+
+---
+
+### Related Games
+
+- **Baker’s Game**  
+- **FreeCell Solitaire**  
+- **Seahaven Towers**  
+- **Spider / Simple Simon**  
+- **Klondike Solitaire**
+
+---
+
+*Written by B6 Games — creators of the Free Solitaire Collection featuring Eight Off, FreeCell, Baker’s Game, Spider, Klondike, Seahaven Towers, and more!*
 
