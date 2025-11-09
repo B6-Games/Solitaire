@@ -1,0 +1,46 @@
+{
+  "name": "@b6games/solitaire-games",
+  "version": "1.0.0",
+  "description": "B6 Solitaire games (deck, shuffle, basic deals).",
+  "license": "MIT",
+  "author": "B6 Games",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B6-Games/Solitaire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/B6-Games/Solitaire/issues"
+  },
+  "homepage": "https://github.com/B6-Games/Solitaire#readme",
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE",
+    "docs/"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "prepublishOnly": "npm run build && npm run test",
+    "test": "node -e \"console.log('ok')\""
+  },
+  "keywords": ["solitaire", "spider", "patience", "klondike", "freecell", "cards", "games", "pasjans", "pyramid", "scorpion"],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": false
+  }
+}
